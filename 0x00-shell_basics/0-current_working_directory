@@ -1,1 +1,3 @@
-working on shell basics
+#!/bin/bash
+pwd
+
